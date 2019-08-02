@@ -1,0 +1,35 @@
+{
+  "metaType": "materials",
+  "name": "official-react-materials",
+  "type": "react",
+  "title": "官方 React 物料库",
+  "description": "Lugia 官方维护的 react 物料库",
+  "keywords": ["react", "官方"],
+  "logo": "http://192.168.102.73:8081/hanjingbo/public/raw/master/lugia-mega.png",
+  "download": {
+    "type": "npm",
+    "registry": "http://219.141.235.71:18081/repository/lugia-group/"
+  },
+  "blocks": [],
+  "layouts": [
+  ],
+  "scaffoldings": [
+    {
+      "metaType": "scaffolding",
+      "name": "@lugia/scaffolding-admin",
+      "title": "企业级中后台管理系统",
+      "description": "一个基于 React 技术栈的前端脚手架项目，适用于企业级中后台应用。使用 @lugia/lugia-web, @lugia/lugiax, @lugia/mega-scripts...",
+      "download": {
+        "type": "npm",
+        "name": "@lugia/scaffolding-admin",
+        "registry": "http://219.141.235.71:18081/repository/lugia-group/"
+      },
+      "categories": ["企业后台"],
+      "screenshot": "http://192.168.102.73:8081/liguoxin/lugia-publis/raw/master/lugia-admin.png",
+      "publishTime": 1539245773445,
+      "updateTime": 1542256877877,
+      "homepage": "http://192.168.102.73:8081/liguoxin/lugia-publis/raw/master/lugia-admin.png",
+      "metaFile": "./meta.js"
+    }
+  ]
+}
