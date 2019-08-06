@@ -22,7 +22,7 @@
       "download": {
         "type": "npm",
         "name": "@lugia/scaffolding-admin",
-        "registry": "http://219.141.235.71:18081/repository/lugia-group/"
+        "registry": "https://registry.npm.taobao.org/"
       },
       "categories": ["企业后台"],
       "screenshot": "https://raw.githubusercontent.com/zenjava/resource/master/lugia-admin.png",
